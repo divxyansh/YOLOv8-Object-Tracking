@@ -10,3 +10,7 @@ To install YOLOv8, please follow this link, which contains comprehensive documen
 
 ![image](https://github.com/divxyansh/YOLOv8-Object-Tracking/assets/121718195/07389c1e-97c3-4775-bc6a-7636cb4c6587)
 
+Results & Evaluation:
+Precision: 91.22%
+Recall: 81%
+
